@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/yosiakatsuki/try-pug#readme",
   "devDependencies": {
+    "gulp": "^3.9.1",
     "gulp-plumber": "^1.1.0",
-    "gulp-pug": "^3.3.0"
+    "gulp-pug": "^3.3.0",
+    "gulp-watch": "^4.3.11"
   }
 }
